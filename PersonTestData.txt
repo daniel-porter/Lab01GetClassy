@@ -1,0 +1,5 @@
+000001,Laptop,Runs applications,600.0
+000002,Keyboard,RGB, allows input to be sent to computer,150.0
+000003,Mouse,Hand held input device,50.0
+000004,Monitor,Output device,450.0
+000005,Desk,Workspace,400.0

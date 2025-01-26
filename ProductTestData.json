@@ -1,0 +1,5 @@
+{"ID": "000001","Name": "Laptop","Description": "Runs applications","Cost": "600.0",}
+{"ID": "000002","Name": "Keyboard","Description": "RGB, allows input to be sent to computer","Cost": "150.0",}
+{"ID": "000003","Name": "Mouse","Description": "Hand held input device","Cost": "50.0",}
+{"ID": "000004","Name": "Monitor","Description": "Output device","Cost": "450.0",}
+{"ID": "000005","Name": "Desk","Description": "Workspace","Cost": "400.0",}

@@ -1,0 +1,5 @@
+<Product><ID>000001</ID><Name>Laptop</Name><Description>Runs applications</Description><Cost>600.0</Cost></Product>
+<Product><ID>000002</ID><Name>Keyboard</Name><Description>RGB, allows input to be sent to computer</Description><Cost>150.0</Cost></Product>
+<Product><ID>000003</ID><Name>Mouse</Name><Description>Hand held input device</Description><Cost>50.0</Cost></Product>
+<Product><ID>000004</ID><Name>Monitor</Name><Description>Output device</Description><Cost>450.0</Cost></Product>
+<Product><ID>000005</ID><Name>Desk</Name><Description>Workspace</Description><Cost>400.0</Cost></Product>
